@@ -1,0 +1,14 @@
+{
+  "name": "world-map",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.3",
+    "moment-timezone": "^0.5.34"
+  },
+  "devDependencies": {
+    "vite": "^4.2.0"
+  }
+}
